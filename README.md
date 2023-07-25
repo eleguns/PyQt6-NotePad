@@ -2,6 +2,6 @@
 Simple NotePad that written in PyQt6
 # Execute Program
 ## installing PyQt6
-```pip install -r requirements.txt```
+`pip install -r requirements.txt`
 ## Run Main file
-```python3 NotePad.py```
+`python3 NotePad.py`
